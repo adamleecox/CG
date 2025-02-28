@@ -17,7 +17,7 @@
     </Hosts>
 
     <DefaultSettings>
-        <SourceLocation DefaultValue="https://yourhosting.com/exceladdin/index.html"/>
+        <SourceLocation DefaultValue="https://github.com/adamleecox/CG/blob/main/manifest.xml"/>
     </DefaultSettings>
 
     <Permissions>ReadWriteDocument</Permissions>
